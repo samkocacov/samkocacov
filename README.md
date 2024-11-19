@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning C++
 - 📫 contact: samocavoj@gmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I'm accordeonist in a Slovakian folk band
+- ⚡ Something about me: I'm accordeonist in a Slovakian folk band
 
 <!---
 samkocacov/samkocacov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
